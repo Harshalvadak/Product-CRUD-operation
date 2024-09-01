@@ -1,1 +1,1 @@
-# Product-CRUD-operation
+Created Spring Boot application provides to manage Category and Product information with full CRUD (Create, Read, Update, Delete) option. You can create, view, update, and delete categories and products through simple RESTful API.
